@@ -11,8 +11,8 @@ namespace whatappbot.aplication.Services
     public class WhatAppService: IWhatAppService
     {
         private readonly HttpClient _httpClient;
-        private readonly string _accessToken = "EAAKJ1URgB7cBPuzBSZA58YjtnG7z9ZBjWZCLPl3Y1mcUD56vN6vcpNeFnssKm8OUGehYa5DQ7Y9XGsBZAh7EiDGf4GbVd4nZAbSdHtHMk6S9qegAclHAsmIiSMPXIxqkoaBvs6aY8hnF3OZC759ASqC6OsX9fcKcqbZCl98ZCjiz8P0Tqn66VmUTIoFZCvVnW9sdb9t6jSo17SNNa66njQzHs1QmuWBhedhtPbxot1XL3awZDZD";
-        private readonly string _phoneNumberId = "764777896724417";
+        private readonly string _accessToken = "";
+        private readonly string _phoneNumberId = "";
 
         public WhatAppService(HttpClient httpClient)
         {
