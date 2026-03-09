@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whatappbot.API", "whatappbot.API\whatappbot.API.csproj", "{FDA078A0-4134-4592-ACF5-C34342DBE7D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whatappbot.aplication", "whatappbot.aplication\whatappbot.aplication.csproj", "{3239F8D7-585E-400C-9431-2AA72633BE6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whatappbot.infrastructure", "whatappbot.infrastructure\whatappbot.infrastructure.csproj", "{54EEC680-FAE0-44A4-B8FC-49414D1EEC73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whatappbot.domain", "whatappbot.domain\whatappbot.domain.csproj", "{749E1381-E543-466C-8F5E-F271256C497F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA078A0-4134-4592-ACF5-C34342DBE7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA078A0-4134-4592-ACF5-C34342DBE7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA078A0-4134-4592-ACF5-C34342DBE7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA078A0-4134-4592-ACF5-C34342DBE7D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3239F8D7-585E-400C-9431-2AA72633BE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3239F8D7-585E-400C-9431-2AA72633BE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3239F8D7-585E-400C-9431-2AA72633BE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3239F8D7-585E-400C-9431-2AA72633BE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54EEC680-FAE0-44A4-B8FC-49414D1EEC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EEC680-FAE0-44A4-B8FC-49414D1EEC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EEC680-FAE0-44A4-B8FC-49414D1EEC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EEC680-FAE0-44A4-B8FC-49414D1EEC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749E1381-E543-466C-8F5E-F271256C497F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749E1381-E543-466C-8F5E-F271256C497F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749E1381-E543-466C-8F5E-F271256C497F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749E1381-E543-466C-8F5E-F271256C497F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
